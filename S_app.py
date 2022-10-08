@@ -12,5 +12,5 @@ from PIL import Image
 
 st.title("Main page")
 
-image = Image.open('data/logo.png')
+image = Image.open('logo4.png')
 st.image(image, caption='stlite logo')
